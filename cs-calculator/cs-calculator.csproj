@@ -265,4 +265,7 @@
   </Target>
   <Target Name="AfterBuild">
   </Target> -->
+  <Target Name="HelloWorld">  
+    <Message Text="Hello"></Message>  <Message Text="World"></Message>  
+  </Target>  
 </Project>
